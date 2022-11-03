@@ -45,11 +45,6 @@
 
 
 
-<h2>My Contribution Graph 💹 </h2>
-
-<p align="center">
-  <img src="https://github.com/ronnyjr5644/ronnyjr5644/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
 
 
 
