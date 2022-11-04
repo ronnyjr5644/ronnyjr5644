@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Raunak Raj</h1>
+<img   src="/assests/ronny.gif" class="img-fluid" alt="ronnyjr5644"> 
+<h1></h1>
+<h1 align="center">Hi 👋,</h1>
 <h3 align="center">Determined CS student with over 3 years of experience in the Coding & security domain. Adept at leveraging superior analytical thinking skills to prioritize technical issues and provide timely resolution in a pressurized environment. Possess incomparable communication skills to convey innovative ideas to diverse audiences</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronnyjr5644&label=Profile%20views&color=0e75b6&style=flat" alt="ronnyjr5644" /> </p>
